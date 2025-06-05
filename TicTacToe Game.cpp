@@ -1,4 +1,5 @@
 
+
 /**
   @Title TicTacToe Game
   @Intro Implementation of a Tic-Tac-Toe game with both single and two-player modes
@@ -389,15 +390,14 @@ void showMenu() {
     int choice;
     while (true) {
         clearConsole();
-        cout << setw(width) << " _______________________\n";
-        cout << setw(width) << "|                       |\n";
-        cout << setw(width) << "|      TIC TAC TOE      |\n";
-        cout << setw(width) << "|_______________________|\n";
-        cout << setw(width) << "|1. Start New Game      |\n";
-        cout << setw(width) << "|2. Single player       |\n";
-        cout << setw(width) << "|3. View Game Rules     |\n";
-        cout << setw(width) << "|4. Exit                |\n";
-        cout << setw(width) << "*************************\n";
+        cout << setw(width) << "       TIC TAC TOE       \n";
+        cout << setw(width) << " _______________________ \n";
+        cout << setw(width) << "                         \n";
+        cout << setw(width) << " 1. Start New Game       \n";
+        cout << setw(width) << " 2. Single player        \n";
+        cout << setw(width) << " 3. View Game Rules      \n";
+        cout << setw(width) << " 4. Exit                 \n";
+        cout << setw(width) << "                         \n";
         cout << setw(50) << "Enter your choice: ";
 
         if (!(cin >> choice)) {
@@ -419,10 +419,9 @@ void showMenu() {
                 break;
             case 3:
                 clearConsole();
+                cout << setw(width) << "                                                                                              \n";
+                cout << setw(width) << "                                      TIC TAC TOE RULES:                                      \n";
                 cout << setw(width) << " ____________________________________________________________________________________________\n";
-                cout << setw(width) << "|                                                                                            |\n";
-                cout << setw(width) << "|                                      TIC TAC TOE RULES:                                    |\n";
-                cout << setw(width) << "|____________________________________________________________________________________________|\n";
                 cout << setw(width) << "|********************************************************************************************|\n";
                 cout << setw(width) << "|1. The game is played on a 3x3 grid.                                                        |\n";
                 cout << setw(width) << "|2. Players take turns placing their marks (X or O) in an empty cell.                        |\n";
