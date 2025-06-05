@@ -44,7 +44,7 @@ The game includes input validation, a clear console interface, and basic AI logi
    g++ -o tictactoe TicTacToe.cpp
 
 
-2.**Just Download the file or copy the code and
+2. **Just Download the file or copy the code and
 run it with your local IDE we will recommend you to use CODEBLOCK**
 
 ---
@@ -93,7 +93,6 @@ run it with your local IDE we will recommend you to use CODEBLOCK**
                       ***********************
 ```
 
----
 
 ## 📃 License
 
@@ -101,11 +100,6 @@ This project is for educational purposes. Feel free to use or modify it for lear
 
 ---
 
----
 
 Enjoy playing and coding! 🚀
-
-```
-
----
 
