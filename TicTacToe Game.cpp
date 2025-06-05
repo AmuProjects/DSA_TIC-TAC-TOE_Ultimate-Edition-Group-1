@@ -30,10 +30,7 @@
 #include <cctype>    // for toupper()
 
 using namespace std;
-/**
-        - Game board representation using a 2D array
-        - This data structure was chosen for its simplicity and direct mapping to the game board
-*/
+
 char space[3][3] = {{'1', '2', '3'}, {'4', '5', '6'}, {'7', '8', '9'}};
 char token = 'X';  // Current player's token
 bool gameTie = false;  // Game state tracking
