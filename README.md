@@ -42,7 +42,7 @@ The game includes input validation, a clear console interface, and basic AI logi
 
    ```bash
    g++ -o tictactoe TicTacToe.cpp
-````
+
 
 2.**Just Download the file or copy the code and
 run it with your local IDE we will recommend you to use CODEBLOCK**
