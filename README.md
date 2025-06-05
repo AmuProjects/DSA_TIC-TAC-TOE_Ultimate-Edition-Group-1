@@ -28,7 +28,7 @@ The game includes input validation, a clear console interface, and basic AI logi
       | Name               | ID             |
       |--------------------|----------------|
       | Misiker Genene     | NSR/1450/16    |
-      | Biruk Getahun      | NSR/2016        |
+      | Biruk Getahun      | NSR/204/16     |
       | Tsion Samuel       | NSR//16        |
       | Heran Mohammed     | NSR//16        |
       | Hilina Kitachew    | NSR//16        |
