@@ -76,21 +76,8 @@ run it with your local IDE we will recommend you to use CODEBLOCK**
 ## 📷 Sample Output
 
 ```
-                      _______________________
-                     |                       |
-                     |      TIC TAC TOE      |
-                     |_______________________|
-                     |***********************|
-                     |*|     |     |       |*|
-                     |*|  X  |  O  |   3   |*|
-                     |*|_____|_____|_______|*|
-                     |*|     |     |       |*|
-                     |*|  4  |  X  |   O   |*|
-                     |*|_____|_____|_______|*|
-                     |*|     |     |       |*|
-                     |*|  7  |  8  |   X   |*|
-                     |*|     |     |       |*|
-                      ***********************
+![Screenshot 2025-06-05 221921](https://github.com/user-attachments/assets/8fc96bec-d3df-4a19-8b24-b85069170b03)
+
 ```
 
 
