@@ -76,7 +76,7 @@ run it with your local IDE we will recommend you to use CODEBLOCK**
 ## 📷 Sample Output
 
 ```
-![Screenshot 2025-06-05 221921](https://github.com/user-attachments/assets/8fc96bec-d3df-4a19-8b24-b85069170b03)
+![Game Screenshot](https://user-images.githubusercontent.com/123456789/abcd1234-5678-90ef-ghij-klmnopqrstuv.png)
 
 ```
 
